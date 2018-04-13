@@ -3,6 +3,10 @@ Repo to test sending DataFrame via pyarrow
 
 Currently segfaults when trying to deserialize DataFrame
 
+```
+pip install -r requirements
+```
+
 Sanic-based server in one window:
 ```
 $ python app.py
