@@ -1,0 +1,4 @@
+requests
+pyarrow
+sanic
+pandas
